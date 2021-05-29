@@ -1,0 +1,3 @@
+[submodule "Integrations"]
+	path = Integrations
+	url = https://github.com/UiPath-LAB-TEC/Integrations.git
