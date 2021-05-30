@@ -1,3 +1,6 @@
 [submodule "Integrations"]
 	path = Integrations
 	url = https://github.com/UiPath-LAB-TEC/Integrations.git
+[submodule "AICenter-Du"]
+	path = AICenter-Du
+	url = https://github.com/UiPath-LAB-TEC/AICenter-Du.git
