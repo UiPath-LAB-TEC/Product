@@ -4,3 +4,6 @@
 [submodule "AICenter-Du"]
 	path = AICenter-Du
 	url = https://github.com/UiPath-LAB-TEC/AICenter-Du.git
+[submodule "Test-Suite"]
+	path = Test-Suite
+	url = https://github.com/UiPath-LAB-TEC/Test-Suite.git
