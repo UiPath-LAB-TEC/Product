@@ -7,3 +7,6 @@
 [submodule "Test-Suite"]
 	path = Test-Suite
 	url = https://github.com/UiPath-LAB-TEC/Test-Suite.git
+[submodule "StudioX"]
+	path = StudioX
+	url = https://github.com/UiPath-LAB-TEC/StudioX.git
